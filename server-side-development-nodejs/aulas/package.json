@@ -1,0 +1,23 @@
+{
+  "name": "ssdnj",
+  "version": "0.0.1",
+  "description": "server side development node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoHara/coursera.git"
+  },
+  "keywords": [
+    "coursera",
+    "nodejs"
+  ],
+  "author": "Thiago Hara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThiagoHara/coursera/issues"
+  },
+  "homepage": "https://github.com/ThiagoHara/coursera#readme"
+}
